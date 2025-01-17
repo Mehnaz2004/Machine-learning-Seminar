@@ -1,0 +1,14 @@
+{
+    "whole wheat rice": ["mineral water"], 
+    "french fries": ["pancakes", "burgers", "milk", "green tea", "chocolate", "eggs"], 
+    "pancakes": ["french fries", "eggs", "spaghetti", "mineral water"], 
+    "cooking oil": ["mineral water"], 
+    "frozen smoothie": ["mineral water"], 
+    "spaghetti": ["tomatoes", "shrimp", "burgers", "olive oil", "pancakes", "green tea", "frozen vegetables", "milk", "eggs", "ground beef", "chocolate", "mineral water"], 
+    "tomatoes": ["spaghetti", "mineral water"], 
+    "shrimp": ["spaghetti", "mineral water"], 
+    "burgers": ["spaghetti", "french fries", "mineral water", "eggs"], 
+    "eggs": ["frozen vegetables", "pancakes", "green tea", "burgers", "milk", "chocolate", "french fries", "spaghetti", "mineral water"], 
+    "frozen vegetables": ["eggs", "chocolate", "milk", "spaghetti", "mineral water"], 
+    "ground beef": ["milk", "chocolate", "spaghetti", "mineral water"], 
+    "milk": ["ground beef", "frozen vegetables", "french fries", "eggs", "chocolate", "spaghetti", "mineral water"], "chicken": ["mineral water"], "chocolate": ["frozen vegetables", "ground beef", "green tea", "milk", "eggs", "french fries", "spaghetti", "mineral water"], "olive oil": ["spaghetti", "mineral water"], "soup": ["mineral water"], "green tea": ["chocolate", "eggs", "spaghetti", "french fries"], "mineral water": ["low fat yogurt", "burgers", "tomatoes", "cake", "olive oil", "pancakes", "frozen vegetables", "ground beef", "milk", "eggs", "chocolate", "spaghetti"], "low fat yogurt": ["mineral water"], "cake": ["mineral water"]}
